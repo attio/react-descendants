@@ -6,10 +6,7 @@
   "license": "MIT",
   "bugs": "https://github.com/attio/react-descendants/issues",
   "homepage": "https://github.com/attio/react-descendants",
-  "repository": {
-    "type": "git",
-    "url": "attio/react-descendants.git"
-  },
+  "repository": "attio/react-descendants.git",
   "type": "module",
   "files": [
     "lib"
